@@ -1,0 +1,7 @@
+{
+  "name": "Rigourmet",
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "fontawesome": "https://github.com/FortAwesome/Font-Awesome.git#~4.2.0"
+  }
+}
